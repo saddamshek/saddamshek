@@ -1,0 +1,145 @@
+/*-=-=-=-=- Global table -=-=-=-=-*/
+/* 
+1. 
+
+
+3. Media 992px 
+
+*/
+@media(max-width:992px){
+  .header .navbar .navbar-nav .nav-item .nav-link{
+    text-align: center;
+
+  }
+}
+@media(max-width:768px){
+  .tabs-salam{
+    position: sticky;
+  }
+}
+@media(max-width:910px){
+  .tabs-salam .nav-item .nav-link{
+    font-size: .8rem;
+  }
+}
+@media(max-width:816px){
+  .tabs-salam .nav-item .nav-link{
+    font-size: .7rem;
+  }
+}
+@media(max-width:767px){
+  .tabs-salam .nav-item .nav-link{
+    font-size: 1rem;
+  }
+}
+@media(max-width:419px){
+  .tabs-salam .nav-item .nav-link{
+    font-size: .8rem;
+  }
+}
+@media(max-width:379px){
+  .tabs-salam .nav-item .nav-link{
+    font-size: .7rem;
+  }
+}
+@media(max-width:527px){
+  .seller-1 a h5{
+    font-weight: 500;
+    font-size: .75rem;
+}
+.seller-1 a h5 span{
+  font-size: 10px;
+    line-height: 15px;
+}
+.seller-1 a h5 i{
+  font-size: 10px;
+  line-height: 15px;
+}
+.seller-1 a h5 b{
+  font-size: 10px;
+   line-height: 13px;
+}
+.gig .programming a{
+  font-size: .7375rem;
+}
+.gig .programming i{
+  font-size: .7375rem;
+}
+.gig .gig-title{
+  font-size: 1rem;
+}
+}
+@media(max-width:467px){
+  .seller-1 a h5{
+    font-size: .55rem;
+}
+.seller-1 a h5 span{
+    line-height: 10px;
+}
+.seller-1 a h5 i{
+
+  line-height: 10px;
+}
+.seller-1 a h5 b{
+  font-size: 10px;
+   line-height: 10px;
+}
+.about-gig .seller-3-body .seller-name .web-1 {
+  font-size: .7rem;
+}
+.about-gig .seller-3-body .seller-name h6 i {
+  font-size: .6rem;
+  line-height: 0;
+}
+.about-gig .seller-3-body .seller-name h6 b {
+ font-size: .6rem;
+}
+.h6, h6 {
+  font-size: 0;
+}
+.about-gig .seller-3-body .seller-name .btn-primary {
+  line-height: 1rem;
+}
+}
+@media(max-width:437px){
+  .seller-1 a h5{
+    font-size: .5rem;
+}
+.seller-1 a h5 span{
+    line-height: 7px;
+    font-size: 7px;
+}
+.seller-1 a h5 i{
+  font-size: 7px;
+  line-height: 10px;
+}
+.seller-1 a h5 b{
+  font-size: 7px;
+   line-height: 10px;
+}
+.gig .programming a{
+  font-size: .6375rem;
+  margin-right: 1px !important;
+  margin-left: 1px !important;
+}
+.gig .programming i{
+  font-size: .6375rem;
+  margin-right: 1px !important;
+  margin-left: 1px !important;
+}
+.gig .gig-title{
+  font-size: .9375rem;
+  margin-right: 1px !important;
+  margin-left: 1px !important;
+}
+.about-gig .seller-3-body .seller-name p span {
+  font-size: .5375rem;
+}
+.about-gig .seller-3-body .seller-name p {
+  font-size: .8375rem;
+}
+@media(max-width:390px){
+  .about-gig .seller-3-body .seller-name p span {
+    font-size: .4375rem;
+  }
+}
